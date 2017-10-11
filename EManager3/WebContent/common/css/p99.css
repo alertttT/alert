@@ -1,0 +1,48 @@
+.p99{
+	font: "Î¢ÈíÑÅºÚ";
+	font-size: 12px;
+	background-color: lightgray;
+	
+}
+#p_99{
+	width: 100%;
+	height: 15px;
+}
+#button_div{
+	width: 100%;
+	height: 20px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.button_on{
+	border-radius: 9px;
+}
+#check_article{
+	margin-left: 300px;
+	
+}
+#test1_big{
+	width: 100%;
+	height: 650px;
+}
+#test2_big{
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+	position: relative;
+}
+.td_1{
+	background-color: lightgray;
+	width: 300px;
+	height: 100%;
+	border-radius: 5px;
+}
+
+.select_value{
+	width: 180px;
+}
+#list_across{
+	float:left;
+	list-style: none;
+	
+}
